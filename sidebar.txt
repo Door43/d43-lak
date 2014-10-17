@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lak:home|Door43 (lak)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lak|d43-lak repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lak/archive/master.zip|d43-lak.zip]]
+
+**Recent Changes**
+{{changes>ns = lak}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lak|Ethnologue data]]
+
